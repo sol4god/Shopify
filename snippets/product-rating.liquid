@@ -1,0 +1,23 @@
+<!-- /snippets/product-rating.liquid -->
+
+{% liquid
+  assign rating_count_enable = false
+  if show_rating_count and product.metafields.loox.avg_rating != blank
+    assign rating_count_enable = true
+  endif
+  assign rating_label =  'general.accessibility.star_reviews_info' | t: avg_rating: product.metafields.loox.avg_rating.value, rating_max: product.metafields.loox.avg_rating.value.scale_max
+  if rating_count_enable
+    assign count_translation = 'general.accessibility.total_reviews' | t
+    assign count_label_string = ', ' | append: product.metafields.loox.num_reviews | append: ' ' | append: count_translation
+    assign rating_label = rating_label | append: num_reviews_string
+  endif
+ %}
+
+<div class="product__rating" role="img" aria-label="{{ rating_label }}">
+  <span class="product_rating_value" aria-hidden="true">{{ product.metafields.loox.avg_rating.value | round: 1 }}</span>
+  <span aria-hidden="true" class="product__rating__star"></span>
+  {%- if rating_count_enable -%}
+    <span class="product__rating__count" aria-hidden="true">({{ product.metafields.loox.num_reviews }})</span>
+  {%- endif -%}
+</div>
+

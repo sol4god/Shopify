@@ -1,0 +1,45 @@
+{% schema %}
+{
+  "name": "Social Proof Video",
+  "settings": [
+    {
+      "type": "select",
+      "id": "section_width_option",
+      "label": "Section Width",
+      "options": [
+        { "value": "full_width", "label": "Full Width" },
+        { "value": "full_width_padded", "label": "Full Width (Padded)" },
+        { "value": "page_width", "label": "Page Width" },
+        { "value": "page_width_padded", "label": "Page Width (Padded)" }
+      ],
+      "default": "page_width"
+    },
+    {
+      "type": "range",
+      "id": "block_padding",
+      "label": "Padding Between Blocks (px)",
+      "min": 0,
+      "max": 50,
+      "step": 5,
+      "default": 20
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Block Alignment",
+      "options": [
+        { "value": "left", "label": "Left" },
+        { "value": "center", "label": "Center" },
+        { "value": "right", "label": "Right" }
+      ],
+      "default": "center"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Social Proof Video",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}

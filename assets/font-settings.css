@@ -1,0 +1,92 @@
+
+
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=ff7b4c6c99e924d303d898c6a295c58171e37d4bf9b90275d7fef1bacae54bbd") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=9de4615bc00f9d4febcf5c4286f1901e4e81f5630d9daeb92c1ade1d660bb5f2") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=ff7b4c6c99e924d303d898c6a295c58171e37d4bf9b90275d7fef1bacae54bbd") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=9de4615bc00f9d4febcf5c4286f1901e4e81f5630d9daeb92c1ade1d660bb5f2") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=ff7b4c6c99e924d303d898c6a295c58171e37d4bf9b90275d7fef1bacae54bbd") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=9de4615bc00f9d4febcf5c4286f1901e4e81f5630d9daeb92c1ade1d660bb5f2") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n5.25334cd7ff48c81cfd51a6bc5a81d92a1b4d4501.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=5bdc7b3b599e06d10e8ddbac754de5901b076013a31fe99ff9e64d61b991e68c") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n5.fc8eae64d8f1b5d2b8c42b45ddc0749aff4750a6.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=1276e6e26c2a1673256fd68109597d4b8cfe719c95bc9711524db29e6379f92e") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n5.25334cd7ff48c81cfd51a6bc5a81d92a1b4d4501.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=5bdc7b3b599e06d10e8ddbac754de5901b076013a31fe99ff9e64d61b991e68c") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n5.fc8eae64d8f1b5d2b8c42b45ddc0749aff4750a6.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=1276e6e26c2a1673256fd68109597d4b8cfe719c95bc9711524db29e6379f92e") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_n5.25334cd7ff48c81cfd51a6bc5a81d92a1b4d4501.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=5bdc7b3b599e06d10e8ddbac754de5901b076013a31fe99ff9e64d61b991e68c") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_n5.fc8eae64d8f1b5d2b8c42b45ddc0749aff4750a6.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=1276e6e26c2a1673256fd68109597d4b8cfe719c95bc9711524db29e6379f92e") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_i4.a7e8d886e15d5fb9bc964a53b3278effbf270e9c.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=ee29372dffa6b611b6ffea9bc927c6e8298a9d3ac38c29d8e97f469a8069c6c5") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_i4.e87de252199e27825a41bf81646996685d86452d.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=9c0d33df31b3b68690a60615e1fb815d1ca7694d52b8561bd7a1ae3bffe48e31") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//rmac.store/cdn/fonts/poppins/poppins_i5.7a2d84979134c226101806900bea600c71eeb63d.woff2?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=5817458cfbe8dc46707f6cfd19c4f7b34a7dbb39749b96b77f94d1e0bb388ed3") format("woff2"),
+       url("//rmac.store/cdn/fonts/poppins/poppins_i5.8671d7a1ea0c17aae512b84c1f6f06c5ca63dd49.woff?h1=cm1hYy5zdG9yZQ&h2=amFyZWRtLTcxMi5hY2NvdW50Lm15c2hvcGlmeS5jb20&h3=YmVzdC1tZW5zLXVuZGVyd2Vhci5jb20&h4=cmVhbG1lbmFwcGFyZWwuY29t&hmac=bccdb69e4f6ef3e98b64248deb5e70ab2455d0aaf2cab4afa96dca9e78a1b1a0") format("woff");
+}
+
+
